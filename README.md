@@ -96,6 +96,7 @@ An interactive chatbot helps students understand their mistakes, gives tips, and
 ## 📬 Contact
 
 📧 Email: **amoghrules20@gmail.com**  
+📧 Email: **naveenkumar13796@gmail.com**
 🐛 GitHub Issues: [Submit here](https://github.com/Chunnu-Munnu/Questify-AI/issues)
 
 ---
