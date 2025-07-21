@@ -103,5 +103,5 @@ An interactive chatbot helps students understand their mistakes, gives tips, and
 ---
 
 ## 🦾 Questify-AI  
-**The future of exams — graded with AI speed, precision, and care.**
 ** Happy learning!!!**
+**The future of exams — graded with AI speed, precision, and care.**
